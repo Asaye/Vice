@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Vice</string>
+    <string name="home_message">Tap the + button to add deferred phone activities.</string>
+    <string name="no_data">There are no scheduled activities.</string>
+    <string name="no_data_archive">There are no stored activities in the archive.</string>
+    <string name="archive_text">Fetch from archive</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="recording">Audio recording in progress ...</string>
+    <string name="ready">Ready for audio recording.</string>
+    <string name="access_token">
+    	pk.eyJ1IjoiYXNheWUiLCJhIjoiY2thZXk3YjB3MGlxZjJ4bHBpZmFzbGdtMSJ9.Vzu15apc5XC8xPAwLONS5Q
+    </string>
+</resources>

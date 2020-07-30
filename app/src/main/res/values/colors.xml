@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="danger">#D81B60</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background1">#33b5e5</color>
+    <color name="background2">#0099CC</color>
+    <color name="button">#3F729B</color>
+    <color name="text">#bbdefb</color>
+    <color name="text_blur">#888888</color>
+    <color name="background_data">#7ed5ea</color>
+    <color name="card">#1181b2</color>
+    <color name="thumb">#f4f3f4</color>
+    <color name="light_blue">#3778c2</color>
+    <color name="brown">#777777</color>
+    <color name="dark_brown">#555555</color>
+    <color name="task_background">#11abc1</color>
+    <color name="activity_btn">#99ddff</color>
+    <color name="activity_text">#999999</color>
+    <color name="activity_detail">#99ddff</color>
+    <color name="input_text">#01345b</color>
+    <color name="input_border">#4b9fe1</color>
+    <color name="modal_body">#2c3e50</color>
+    <color name="modal_text">#7ed5ea</color>
+</resources>

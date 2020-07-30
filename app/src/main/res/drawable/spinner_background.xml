@@ -1,0 +1,27 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <layer-list>
+            <item android:gravity="center_vertical">
+                <shape xmlns:android="http://schemas.android.com/apk/res/android">
+                    <stroke android:color="#4b9fe1" android:width="0.65dp"/>
+                    <corners android:radius="4dp" />
+                    <size android:height="30dp"/>
+                </shape>
+            </item>
+            <item
+                android:right="15dp"
+                android:gravity="right|center_vertical">
+                <vector xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:width="10dp"
+                    android:height="10dp"
+                    android:viewportWidth="10.0"
+                    android:viewportHeight="10.0">
+                    <path
+                        android:pathData="M0,0 L10,0 L5,7 z"
+                        android:strokeColor="#cccccc"
+                        android:fillColor="#4b9fe1"/>
+                </vector>
+            </item>
+        </layer-list>
+    </item>
+</selector>
